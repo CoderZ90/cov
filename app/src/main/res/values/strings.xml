@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Covid-19 Status</string>
+
+    <!--Credits only-->
+    <string name="credits">\u2022 <b>covid19india.org</b> for India specific API.
+        \n\u2022 <b>corona.lmao.ninja</b> for Global API.
+        \n\u2022 <b>Laura Reen</b> for app icon.
+        \n\u2022 <b>Flaticon</b> for social media icons.
+        \n\u2022 <b>Ashish Vaish</b> for his help in fixing bugs.
+    </string>
+    <string name="libs">\u2022 <b>Glide</b> for showing flag images.
+        \n\u2022 <b>Eaze Graph</b> for showing Pie charts.
+        \n\u2022 <b>Circle ImageView</b> for showing my pic xD lol.
+    </string>
+    <string name="owner_text">Made with ❤ in India\n\nBy Vipul Jha</string>
+
+
+    <!--App version-->
+    <string name="version">2.1</string>
+
+
+    <!--App changelog-->
+    <string name="changelogTitle">Covid-19 Status v2.1</string>
+    <string name="changelog">\u2022 Fixed some layout glitches.\n\u2022 Fixed countries not showing new recovered cases.\n\u2022 Improvements in push notifications\n\u2022 Other minor under the hood changes.</string>
+</resources>
